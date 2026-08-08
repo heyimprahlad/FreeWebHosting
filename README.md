@@ -1,4 +1,4 @@
-# ## Web Hosting
+# ## Free Web Hosting
 
   * [GoogieHost](https://googiehost.com) — Zero cost website hosting with Apache, PHP, MySQL, cPanel with ads on the bottom of each pages!
   * [20i](https://www.20i.com/) — Free web hosting with no ads, on the same platform as paid plans. Includes a free CDN, 100 email addresses, SSL and over 80 one-click installs.
